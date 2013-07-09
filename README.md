@@ -1,0 +1,1 @@
+In the TestPouch.tgz file you find and Android Project you can [import into Eclipse](http://docs.phonegap.com/en/2.9.0/guide_getting-started_android_index.md.html#Android%20Platform%20Guide) or you can roll your own PhoneGap app and replace the assets/www/ directory with the www directory here.
