@@ -3,10 +3,10 @@
 
 <head>
   <meta charset="utf-8">
-  <title>My Library</title>
+  <title>Pouch Test</title>
 
   <script src="cordova.js"></script>
-  <script src="pouchdb-nightly.old.js"></script>
+  <script src="pouchdb-nightly-2013-08-25.js"></script>
   <script src="test.js"></script>
     
   </head>
@@ -18,16 +18,8 @@
   <script>
     document.addEventListener("deviceready", onDeviceReady, false);
     function onDeviceReady(){
-      // When testing new code, enumerate this for a sanity check. Sometime your
-      // new code will not be loaded!
-      console.log('DEVICE READY 22')
-      //Test.testPouchPostAndGet()
-      //Test.testPouchAllDocs()
-      //Test.testPouchQuery()
-      //Test.testPouchBackboneModels()
-      //Test.testPouchBackboneCollections()
-      //Test.ReplicateToDbThenOpenDb()
-      Test.ReplicateParallelToDbaAndReplicateToDbbThenOpenDba()
+      console.log('DEVICE READY')
+      Test.test()
     }
   </script>
 
