@@ -181,10 +181,12 @@
         console.log('err: ' + err)
         console.log('changes:' + JSON.stringify(changes))
         var dba = Pouch('dba')
+        /*
         dba.allDocs({include_docs: true}, function(err, response) {
           console.log('allDocs: ' + JSON.stringify(response)) 
           console.assert(response.total_rows == 2, "Replication did not complete correctly.")
         })
+*/
       })
     }
 
