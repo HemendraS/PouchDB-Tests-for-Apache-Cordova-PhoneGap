@@ -1,0 +1,212 @@
+08-29 15:39:25.172: D/OpenGLRenderer(8994): Flushing caches (mode 0)
+08-29 15:40:18.172: I/CordovaLog(9086): Changing log level to DEBUG(3)
+08-29 15:40:18.172: D/DroidGap(9086): DroidGap.onCreate()
+08-29 15:40:18.292: D/CordovaWebView(9086): CordovaWebView is running on device made by: unknown
+08-29 15:40:18.312: D/JsMessageQueue(9086): Set native->JS mode to 2
+08-29 15:40:18.332: D/DroidGap(9086): DroidGap.init()
+08-29 15:40:18.342: D/CordovaWebView(9086): >>> loadUrl(file:///android_asset/www/index.html)
+08-29 15:40:18.362: D/PluginManager(9086): init()
+08-29 15:40:18.382: D/CordovaWebView(9086): >>> loadUrlNow()
+08-29 15:40:18.382: D/Config(9086): Unlimited access to network resources
+08-29 15:40:18.402: I/CordovaLog(9086): Found start page location: index.html
+08-29 15:40:18.402: I/CordovaLog(9086): Changing log level to DEBUG(3)
+08-29 15:40:18.402: D/DroidGap(9086): Resuming the App
+08-29 15:40:18.402: D/DroidGap(9086): CB-3064: The errorUrl is null
+08-29 15:40:18.412: D/ViewRootImpl(9086): pckname = com.Test.TestPouch
+08-29 15:40:18.442: D/SoftKeyboardDetect(9086): Ignore this event
+08-29 15:40:18.502: D/libEGL(9086): loaded /system/lib/egl/libEGL_mali.so
+08-29 15:40:18.552: D/libEGL(9086): loaded /system/lib/egl/libGLESv1_CM_mali.so
+08-29 15:40:18.572: D/libEGL(9086): loaded /system/lib/egl/libGLESv2_mali.so
+08-29 15:40:18.572: I/dalvikvm(9086): threadid=3: reacting to signal 3
+08-29 15:40:18.612: I/dalvikvm(9086): Wrote stack traces to '/data/anr/traces.txt'
+08-29 15:40:18.662: D/OpenGLRenderer(9086): Enabling debug mode 0
+08-29 15:40:18.722: D/DroidGap(9086): onMessage(onPageStarted,file:///android_asset/www/index.html)
+08-29 15:40:18.742: D/SoftKeyboardDetect(9086): Ignore this event
+08-29 15:40:19.522: D/chromium(9086): Unknown chromium error: -6
+08-29 15:40:19.622: D/CordovaNetworkManager(9086): Connection Type: wifi
+08-29 15:40:19.622: D/DroidGap(9086): onMessage(networkconnection,wifi)
+08-29 15:40:19.622: D/CordovaNetworkManager(9086): Connection Type: wifi
+08-29 15:40:19.632: D/DroidGap(9086): onMessage(spinner,stop)
+08-29 15:40:19.672: D/Cordova(9086): onPageFinished(file:///android_asset/www/index.html)
+08-29 15:40:19.672: D/DroidGap(9086): onMessage(onPageFinished,file:///android_asset/www/index.html)
+08-29 15:40:19.692: D/CordovaLog(9086): file:///android_asset/www/index.html: Line 21 : DEVICE READY
+08-29 15:40:19.692: I/Web Console(9086): DEVICE READY at file:///android_asset/www/index.html:21
+08-29 15:40:19.732: I/SqliteDatabaseCpp(9086): sqlite returned: error code = 1, msg = no such table: CacheGroups, db=/data/data/com.Test.TestPouch/databases/webview.db
+08-29 15:40:19.732: I/SqliteDatabaseCpp(9086): sqlite returned: error code = 1, msg = no such table: Caches, db=/data/data/com.Test.TestPouch/databases/webview.db
+08-29 15:40:19.742: I/SqliteDatabaseCpp(9086): sqlite returned: error code = 1, msg = no such table: Origins, db=/data/data/com.Test.TestPouch/databases/webview.db
+08-29 15:40:19.742: I/SqliteDatabaseCpp(9086): sqlite returned: error code = 1, msg = no such table: DeletedCacheResources, db=/data/data/com.Test.TestPouch/databases/webview.db
+08-29 15:40:20.042: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 0  totalUsedQuota: 0
+08-29 15:40:20.042: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.162: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.162: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.342: D/dalvikvm(9086): GC_CONCURRENT freed 161K, 7% free 5898K/6279K, paused 2ms+4ms
+08-29 15:40:22.392: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.392: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.482: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.482: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.582: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.582: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.672: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.672: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.762: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.762: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:22.912: D/CordovaLog(9086): DroidGap:  onExceededDatabaseQuota estimatedSize: 5242880  currentQuota: 5242880  totalUsedQuota: 5242880
+08-29 15:40:22.912: D/CordovaLog(9086): calling quotaUpdater.updateQuota newQuota: 5242880
+08-29 15:40:23.392: E/SQLiteQuery(9086): exception: constraint failed; query: INSERT INTO 'by-sequence' (doc_id_rev, json) VALUES (?, ?);
+08-29 15:40:23.392: W/System.err(9086): android.database.sqlite.SQLiteConstraintException: constraint failed
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.nativeFillWindow(Native Method)
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.fillWindow(SQLiteQuery.java:86)
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.fillWindow(SQLiteCursor.java:164)
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.getCount(SQLiteCursor.java:156)
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.AbstractCursor.moveToPosition(AbstractCursor.java:161)
+08-29 15:40:23.422: W/System.err(9086): 	at android.database.AbstractCursor.moveToFirst(AbstractCursor.java:201)
+08-29 15:40:23.422: W/System.err(9086): 	at org.apache.cordova.Storage.processResults(Storage.java:214)
+08-29 15:40:23.422: W/System.err(9086): 	at org.apache.cordova.Storage.executeSql(Storage.java:174)
+08-29 15:40:23.422: W/System.err(9086): 	at org.apache.cordova.Storage.execute(Storage.java:83)
+08-29 15:40:23.432: W/System.err(9086): 	at org.apache.cordova.api.CordovaPlugin.execute(CordovaPlugin.java:66)
+08-29 15:40:23.432: W/System.err(9086): 	at org.apache.cordova.api.PluginManager.exec(PluginManager.java:215)
+08-29 15:40:23.432: W/System.err(9086): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:51)
+08-29 15:40:23.432: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.432: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.432: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:113)
+08-29 15:40:23.432: W/System.err(9086): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+08-29 15:40:23.432: W/System.err(9086): 	at android.os.Looper.loop(Looper.java:137)
+08-29 15:40:23.432: W/System.err(9086): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:728)
+08-29 15:40:23.442: W/System.err(9086): 	at java.lang.Thread.run(Thread.java:856)
+08-29 15:40:23.442: I/System.out(9086): Storage.executeSql(): Error=constraint failed
+08-29 15:40:23.482: D/dalvikvm(9086): GC_CONCURRENT freed 360K, 9% free 5976K/6535K, paused 2ms+4ms
+08-29 15:40:23.662: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:23.662: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:23.672: E/SQLiteQuery(9086): exception: constraint failed; query: INSERT INTO 'by-sequence' (doc_id_rev, json) VALUES (?, ?);
+08-29 15:40:23.672: W/System.err(9086): android.database.sqlite.SQLiteConstraintException: constraint failed
+08-29 15:40:23.672: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.nativeFillWindow(Native Method)
+08-29 15:40:23.682: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.fillWindow(SQLiteQuery.java:86)
+08-29 15:40:23.682: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.fillWindow(SQLiteCursor.java:164)
+08-29 15:40:23.682: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.getCount(SQLiteCursor.java:156)
+08-29 15:40:23.682: W/System.err(9086): 	at android.database.AbstractCursor.moveToPosition(AbstractCursor.java:161)
+08-29 15:40:23.682: W/System.err(9086): 	at android.database.AbstractCursor.moveToFirst(AbstractCursor.java:201)
+08-29 15:40:23.682: W/System.err(9086): 	at org.apache.cordova.Storage.processResults(Storage.java:214)
+08-29 15:40:23.682: W/System.err(9086): 	at org.apache.cordova.Storage.executeSql(Storage.java:174)
+08-29 15:40:23.682: W/System.err(9086): 	at org.apache.cordova.Storage.execute(Storage.java:83)
+08-29 15:40:23.682: W/System.err(9086): 	at org.apache.cordova.api.CordovaPlugin.execute(CordovaPlugin.java:66)
+08-29 15:40:23.682: W/System.err(9086): 	at org.apache.cordova.api.PluginManager.exec(PluginManager.java:215)
+08-29 15:40:23.692: W/System.err(9086): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:51)
+08-29 15:40:23.692: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.692: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.692: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:113)
+08-29 15:40:23.692: W/System.err(9086): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+08-29 15:40:23.692: W/System.err(9086): 	at android.os.Looper.loop(Looper.java:137)
+08-29 15:40:23.692: W/System.err(9086): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:728)
+08-29 15:40:23.692: W/System.err(9086): 	at java.lang.Thread.run(Thread.java:856)
+08-29 15:40:23.692: I/System.out(9086): Storage.executeSql(): Error=constraint failed
+08-29 15:40:23.772: E/SQLiteQuery(9086): exception: constraint failed; query: INSERT INTO 'by-sequence' (doc_id_rev, json) VALUES (?, ?);
+08-29 15:40:23.772: W/System.err(9086): android.database.sqlite.SQLiteConstraintException: constraint failed
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.nativeFillWindow(Native Method)
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.fillWindow(SQLiteQuery.java:86)
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.fillWindow(SQLiteCursor.java:164)
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.getCount(SQLiteCursor.java:156)
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.AbstractCursor.moveToPosition(AbstractCursor.java:161)
+08-29 15:40:23.772: W/System.err(9086): 	at android.database.AbstractCursor.moveToFirst(AbstractCursor.java:201)
+08-29 15:40:23.772: W/System.err(9086): 	at org.apache.cordova.Storage.processResults(Storage.java:214)
+08-29 15:40:23.782: W/System.err(9086): 	at org.apache.cordova.Storage.executeSql(Storage.java:174)
+08-29 15:40:23.782: W/System.err(9086): 	at org.apache.cordova.Storage.execute(Storage.java:83)
+08-29 15:40:23.782: W/System.err(9086): 	at org.apache.cordova.api.CordovaPlugin.execute(CordovaPlugin.java:66)
+08-29 15:40:23.782: W/System.err(9086): 	at org.apache.cordova.api.PluginManager.exec(PluginManager.java:215)
+08-29 15:40:23.782: W/System.err(9086): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:51)
+08-29 15:40:23.782: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.782: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.782: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:113)
+08-29 15:40:23.792: W/System.err(9086): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+08-29 15:40:23.792: W/System.err(9086): 	at android.os.Looper.loop(Looper.java:137)
+08-29 15:40:23.792: W/System.err(9086): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:728)
+08-29 15:40:23.792: W/System.err(9086): 	at java.lang.Thread.run(Thread.java:856)
+08-29 15:40:23.792: I/System.out(9086): Storage.executeSql(): Error=constraint failed
+08-29 15:40:23.852: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:23.852: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:23.882: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:23.882: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:23.922: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:23.922: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:23.962: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:23.962: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:23.972: E/SQLiteQuery(9086): exception: constraint failed; query: INSERT INTO 'by-sequence' (doc_id_rev, json) VALUES (?, ?);
+08-29 15:40:23.972: W/System.err(9086): android.database.sqlite.SQLiteConstraintException: constraint failed
+08-29 15:40:23.972: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.nativeFillWindow(Native Method)
+08-29 15:40:23.982: W/System.err(9086): 	at android.database.sqlite.SQLiteQuery.fillWindow(SQLiteQuery.java:86)
+08-29 15:40:23.982: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.fillWindow(SQLiteCursor.java:164)
+08-29 15:40:23.982: W/System.err(9086): 	at android.database.sqlite.SQLiteCursor.getCount(SQLiteCursor.java:156)
+08-29 15:40:23.982: W/System.err(9086): 	at android.database.AbstractCursor.moveToPosition(AbstractCursor.java:161)
+08-29 15:40:23.982: W/System.err(9086): 	at android.database.AbstractCursor.moveToFirst(AbstractCursor.java:201)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.Storage.processResults(Storage.java:214)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.Storage.executeSql(Storage.java:174)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.Storage.execute(Storage.java:83)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.api.CordovaPlugin.execute(CordovaPlugin.java:66)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.api.PluginManager.exec(PluginManager.java:215)
+08-29 15:40:23.992: W/System.err(9086): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:51)
+08-29 15:40:23.992: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.992: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.nativeServiceFuncPtrQueue(Native Method)
+08-29 15:40:23.992: W/System.err(9086): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:113)
+08-29 15:40:23.992: W/System.err(9086): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+08-29 15:40:23.992: W/System.err(9086): 	at android.os.Looper.loop(Looper.java:137)
+08-29 15:40:23.992: W/System.err(9086): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:728)
+08-29 15:40:24.002: W/System.err(9086): 	at java.lang.Thread.run(Thread.java:856)
+08-29 15:40:24.002: I/System.out(9086): Storage.executeSql(): Error=constraint failed
+08-29 15:40:24.082: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.082: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.122: D/dalvikvm(9086): GC_CONCURRENT freed 465K, 10% free 5940K/6599K, paused 2ms+8ms
+08-29 15:40:24.142: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.142: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.192: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.192: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.232: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.232: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.262: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.262: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.302: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.302: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.342: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.342: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.372: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.372: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.412: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.412: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.442: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.442: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.482: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.482: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.502: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.502: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.542: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.542: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.592: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.592: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.632: D/dalvikvm(9086): GC_CONCURRENT freed 459K, 11% free 5936K/6599K, paused 2ms+3ms
+08-29 15:40:24.662: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.662: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.702: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.702: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.732: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.732: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.772: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.772: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.802: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.802: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.842: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.842: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.872: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.872: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.902: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.902: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.942: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.942: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:24.992: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:24.992: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:25.022: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:25.022: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:25.052: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:25.052: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:25.142: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:25.142: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
+08-29 15:40:25.152: D/dalvikvm(9086): GC_CONCURRENT freed 461K, 10% free 5943K/6599K, paused 2ms+2ms
+08-29 15:40:25.172: D/CordovaLog(9086): file:///android_asset/www/test.js: Line 11 : Second replication did not complete correctly.
+08-29 15:40:25.172: E/Web Console(9086): Second replication did not complete correctly. at file:///android_asset/www/test.js:11
